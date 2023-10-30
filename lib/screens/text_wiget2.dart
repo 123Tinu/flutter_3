@@ -12,7 +12,6 @@ class TextSample2 extends StatelessWidget {
           fontSize: 30,
             fontWeight: FontWeight.normal,
           fontStyle: FontStyle.normal,
-          foreground: Paint
 
 
         ),
