@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_3/screens/Task.dart';
+import 'package:flutter_3/screens/scaffold.dart';
 import 'package:flutter_3/screens/text_widget.dart';
 import 'package:flutter_3/screens/text_wiget2.dart';
 main(){
@@ -10,7 +12,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return  MaterialApp(
-      home: TextSample2()
+      home: Scaffold2(
+
+      )
     );
   }
 }
